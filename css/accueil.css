@@ -1,0 +1,195 @@
+body{
+    margin: 0px;
+    padding: 0px;
+   /* background-image: url(../images/livre1.jpg);*/
+    background-size: cover;
+}
+/*CORPS***********  CORPS **************CORPS************/
+
+.corps{
+    margin: 30px;
+    padding: 20px;
+    background: beige;
+    border-radius: 5px;
+    height: auto;
+}
+.prim{
+    font-weight: bold;
+    font-size: 19px;
+}
+
+/* ////////////////////////// SIDEBAR //////////////*/ 
+
+.sidebar{
+    background-color: white;
+    float: right;
+    margin-top: 30%;
+    margin-right: 1%;
+    border-radius: 5px;
+    height: auto;
+    padding:10px;
+}
+.border{
+    background-color: #e00b33;
+    width: 100%;
+    height: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    padding-top: 10px;
+
+    text-align: center;
+}
+.regles2{padding-left: 15px;
+padding-right: 15px; 
+}
+.t-regle{
+    font-weight: bold;
+}
+div .style a{
+    text-decoration: none;
+    list-style-type: none;
+    list-style: none;
+    color: rgb(82, 76, 76);
+}
+.contenir{
+    margin: auto;
+     /* padding: 12px;  */
+ } 
+ .item{
+    float: right;
+    padding: 12px;
+    width: 270px; 
+    height: auto;
+    padding-left: 20px;
+    z-index: 1000;
+    word-wrap: break-word; 
+    position: relative;
+    z-index: 0;
+    margin-left: 10px;
+    text-align: center;
+
+}
+  .item-wrapper{
+    min-height: 148px;
+    width: 170px; 
+    height: auto;
+    padding-left: 20px;
+    z-index: 1000;
+    word-wrap: break-word; 
+    position: relative;
+    z-index: 0;
+    float: left;
+
+
+} 
+/* .item{
+    border: solid black;
+    border-radius: 10px;
+
+} */
+i{
+    color: rgb(220, 223, 245);
+    font-size: 25px;
+    float: right;
+}
+/* .separ{
+    background-color: rgb(214, 208, 198);
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*FOOTER*************** FOOTER ************** FOOTER *********/
+
+/* footer{
+    width: 100%;
+    height: 30%;
+    background-color: rgb(17, 17, 17);
+    margin-top: 5%;
+    padding-top: 1%;
+    color: white;
+}
+
+.contact{
+    float: right;
+    margin-right: 95px;
+}
+.social{
+    margin-top: 10px;
+}
+.services{
+    float: right;
+    margin-right: 400px;
+}
+.Apropos{
+    float: right;
+    margin-right: 290px;
+}
+.mention-legale{
+    float: right;
+    margin-right: 295px;
+}
+
+.footer{
+    font-size: 15px;
+}
+.titre-contact{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    font-size: 20px;
+}
+
+.titre-service{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 20px;
+}
+
+.titre-apropos{
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.titre-mentions-legales{
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+}
+.sous-liens{
+    color: white;
+    text-align: center;
+}
+
+.copyright{
+    float: right;
+    width: 100%;
+}
+.copyright-text{
+    float: left;
+    margin-left: 40%;
+
+}
+
+
+/*.titre-contact-lie{
+    text-decoration: red;
+
+}*/ 

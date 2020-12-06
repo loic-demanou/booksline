@@ -1,0 +1,100 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+                                /*************************HEADER**********************/
+
+                    
+
+.titre-pub{
+    background-color: #e00b33;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 40%;
+    padding-left: 20px;
+    height: 40px;
+    border-radius: 0px 15px 0px 15px;
+}
+.info, .info2{font-size: 17px;}
+.info2{border-top: 1px solid rgb(104, 94, 94); padding-top: 18px;}
+
+.regles{
+    background-color: white;
+    float: right;
+    margin-top: 30%;
+    margin-right: 3%;
+    margin-left: 12px;
+    border-radius: 5px;
+}
+.border{
+    background-color: #e00b33;
+    width: 100%;
+    height: 10px;
+    border-radius: 5px;
+}
+.regles2{padding-left: 15px;
+padding-right: 15px; padding-bottom: 15px;}
+
+.enveloppe{
+    margin-left: 100px;
+    margin-right: 100px;
+
+    background-color: rgb(224, 224, 186);
+    display: block;
+    position: relative;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+.total{
+    padding-left: 40px;
+}
+input[type=text],
+input[type=file] {
+    width: 355px;
+    height: 38px;
+    margin-left: 30px;
+    padding-left: 8px;
+
+}
+input[type=file]{
+    margin-left: 35px;
+}
+
+.ville{
+    margin-right: 105px;
+    margin-bottom: 15px;
+}
+label{
+    margin-right: 70px;
+}
+
+input[type=number]{
+    margin-left: 42px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+textarea{
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.lbl-txtarea{ margin-bottom: 25px;
+}
+
+
+.personnels{padding-right: 55%;}
+
+
+.btn{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 210px;
+}
+.chp{margin-left: 120px; margin-top: 25px;}
+
+
+
+
+

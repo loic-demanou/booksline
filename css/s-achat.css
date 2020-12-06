@@ -1,0 +1,115 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+/*CORPS***********  CORPS **************CORPS************/
+
+.corps{
+    margin: 50px;
+    margin-left: 100px;
+    padding: 30px;
+    padding-left: 70px;
+    background-color: beige;
+}
+.prim{
+    font-weight: bold;
+    font-size: 19px;
+}
+.sec{
+    font-weight: bold;
+    font-size: 19px;
+    margin-top: 15px;
+}
+.oder{
+    font-weight: bold;
+    font-size: 19px;
+    margin-top: 15px;
+}
+.plus{
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 17px;
+}
+
+
+                                /*************************FOOTER *****************************/
+
+
+footer{
+    width: 100%;
+    height: 28%;
+    background-color: rgb(17, 17, 17);
+    margin-top: 0%;
+    padding-top: 1%;
+    color: white;
+}
+
+.contact{
+    float: right;
+    margin-right: 95px;
+}
+.social{
+    margin-top: 10px;
+}
+.services{
+    float: right;
+    margin-right: 400px;
+}
+.Apropos{
+    float: right;
+    margin-right: 290px;
+}
+.mention-legale{
+    float: right;
+    margin-right: 295px;
+}
+
+.footer{
+    font-size: 15px;
+}
+.titre-contact{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    font-size: 20px;
+}
+
+.titre-service{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 20px;
+}
+
+.titre-apropos{
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.titre-mentions-legales{
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+}
+.sous-liens{
+    color: white;
+    text-align: center;
+}
+
+.copyright{
+    float: right;
+    background-color: rgb(17, 17, 17);
+    width: 100%;
+}
+.copyright-text{
+    float: left;
+    margin-left: 40%;
+
+}
+
+
+/*.titre-contact-lie{
+    text-decoration: red;
+
+}*/

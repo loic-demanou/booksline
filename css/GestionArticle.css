@@ -1,0 +1,30 @@
+div{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.row{
+    margin-left: 180px;
+    margin-right: 110px;
+    color: rgb(23, 55, 233);
+}
+.modifetsup{
+    margin-left: 20%;
+}
+.lblCategorie{
+    margin-left: 10%;
+}
+.categorie{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+/* ******************HEADER DE GESTION DES OUVRAGES************ */
+
+/* .gd{
+    height: 80px;
+    background-color: darkolivegreen;
+}
+label{
+    text-align: center;
+    font-size: 30px;
+} */

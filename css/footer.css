@@ -1,0 +1,36 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.footer{
+    background-color: #2C3E50;
+    height: auto;
+}
+.footer h4{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+.footer a{
+    color: white;
+    margin-left: 150px;
+}
+.footer a:hover{
+    color: cornflowerblue;
+}
+.footer p{
+    color: white;
+    text-align: center;
+}
+.footer .tel{
+    color: white;
+    text-align: center;
+}
+.footer .social-tw, .social-fb{
+    border-radius: 3px;
+}
+.footer .ml{
+    font-size: 20px;
+    text-decoration: none;
+    text-decoration: underline;
+}

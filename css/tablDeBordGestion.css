@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.gd{
+    background-color:rgb(60, 75, 34);
+     height:80px;
+      margin-bottom: 30px;
+    display:block
+}
+.row{
+    margin-left: 180px;
+    margin-right: 110px;
+    color: rgb(23, 55, 233);
+}
+.titre{
+    margin-top: 15px;
+    margin-left: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.admin{
+    margin-top: 15px;
+    float: right;
+}
+.dropdown-toggle{
+    float: right;
+    margin-top: 35px;
+}
+
+.modifetsup{
+        margin-left: 20%;
+    }
+    .lblCategorie{
+        margin-left: 10%;
+    }
+    .categorie{
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+

@@ -1,0 +1,11 @@
+
+.gd{
+    height: 80px;
+    background-color: darkolivegreen;
+    margin-bottom: 30px;
+}
+label{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}

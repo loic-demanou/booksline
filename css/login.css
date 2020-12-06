@@ -1,0 +1,82 @@
+html,
+body {
+  height: 10%;
+  margin: 0px;
+  padding: 0px;
+  background: url(../images/etudiantnoir.jpg) no-repeat;
+  background-size: cover;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.format {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+.format .checkbox {
+  font-weight: 400px;
+  font-size: 20px;
+}
+.format .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 15px;
+  font-size: 16px;
+}
+.format .form-control:focus {
+  z-index: 2;
+}
+.format input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  width: 300px;
+
+}
+.format input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  width: 300px;
+
+}
+.btn{
+  background-color: #e00b33;
+}
+.copyright
+{
+color: black;
+margin-top: 80px;
+}
+a:hover{
+  color: green;
+}
+.principal{
+  background-color: beige;
+  display: block;
+  position: absolute;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}  
+
+
+/* TOUT CE QUI CONCERNE LE FORMULAIRE ADMINISTRATION UNIQUEMENT*/
+
+.admin{
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+

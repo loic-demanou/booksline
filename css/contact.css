@@ -1,0 +1,164 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+.enveloppe{
+    background-color: rgb(218, 243, 217);
+    border-radius: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2%;
+
+
+}
+.fb{margin-left: 200px;}
+.twitter{ margin-left: 10px;}
+.contact-titre{text-align: center; font-size: 25px; font-family: 'Times New Roman', Times, serif;}
+.infos{
+    margin-bottom: 1%;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+.phrase{text-align: center;}
+.coord:hover{
+    color: blue;
+}
+.total{
+    padding: 0 20px;
+    
+}
+.form-contact{
+    max-width: 730px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.champ-input{
+margin-right: 4%;
+}
+.champ-input, .message{
+    width: 48%;
+}
+.champ-input .input,
+.message textarea{
+    margin: 20px 0;
+    background: transparent;
+    border: 0;
+    border-bottom: 2px solid rgb(10, 248, 89);
+    padding: 5px;
+    width: 100%;
+}
+.message textarea{
+height: 200px;
+}
+input[type="submit"]{
+    background: #e00b33;
+    text-align: center;
+    padding: 2%;
+    border-radius: 5px;
+    width: 100%;
+    color: white;
+}
+
+.img{
+    float: right;
+    border-radius: 5px;
+}
+.txt-localisation{
+    float: right;
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+footer{
+    width: 100%;
+    height: 28%;
+    background-color: rgb(17, 17, 17);
+    margin-top: 7%;
+    padding-top: 1%;
+    color: white;
+}
+
+.contact{
+    float: right;
+    margin-right: 95px;
+}
+.social{
+    margin-top: 10px;
+}
+.services{
+    float: right;
+    margin-right: 400px;
+}
+.Apropos{
+    float: right;
+    margin-right: 290px;
+}
+.mention-legale{
+    float: right;
+    margin-right: 295px;
+}
+
+.footer{
+    font-size: 15px;
+}
+.titre-contact{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    font-size: 20px;
+}
+
+.titre-service{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 20px;
+}
+
+.titre-apropos{
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.titre-mentions-legales{
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.sous-liens{
+    color: white;
+    text-align: center;
+}
+
+.copyright{
+    float: right;
+    background-color: rgb(17, 17, 17);
+    width: 100%;
+}
+.copyright-text{
+    float: left;
+    margin-left: 40%;
+
+}
+
+
+/*.titre-contact-lie{
+    text-decoration: red;
+
+}*/

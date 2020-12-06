@@ -1,0 +1,40 @@
+body{               
+    padding: 0%;
+    margin: 0%;
+}
+
+
+
+#inputEmail{
+width: 300px;
+}
+p{
+    text-align: center;
+    padding-left: 40px;
+}
+.principal{
+    border-radius: 5px;
+    background-color: beige;
+    display: block;
+    position: absolute;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 25px;
+    padding-left: 60px;
+    padding-right: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+form > div > p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+form input[type="submit"] ,input[type="reset"]{
+      background-color:#e00b33;
+      color: white;
+    width: 90px;
+    height: 40px;
+    margin-left: 30px;
+
+
+}
